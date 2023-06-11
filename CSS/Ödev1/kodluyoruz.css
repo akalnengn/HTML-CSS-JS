@@ -1,0 +1,25 @@
+article{
+    margin: auto;
+    text-align: center;
+}
+img{
+    width: 210px;
+}
+li{
+    margin: auto;
+    text-align: center;
+    width: 200px;
+}
+h1{
+    font-size: 40px;
+    color: red;
+}
+h2{
+    color: blueviolet;
+}
+a{
+    color: blueviolet;
+}
+h3{
+    color: burlywood;
+}
